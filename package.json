@@ -1,0 +1,22 @@
+{
+  "name": "f3c-correos",
+  "version": "1.0.0",
+  "main": "f3c.js",
+  "bin": {
+    "f3c": "./f3c.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "fs-extra": "^11.2.0",
+    "imap": "^0.8.19",
+    "mailparser": "^3.6.5",
+    "prompt-sync": "^4.2.0"
+  },
+  "devDependencies": {},
+  "description": ""
+}
